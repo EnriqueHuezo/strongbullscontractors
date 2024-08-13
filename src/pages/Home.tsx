@@ -57,7 +57,7 @@ export const Home = () => {
                 <div className="flex flex-col md:flex-row gap-4">
                     <div className="flex-1">
                         <p className="font-text font-normal text-xl mb-4">
-                            Experience top-notch residential and commercial remodeling services with Elite Siding Gutters Roofing LLC. Trust in quality craftsmanship at competitive prices.
+                            Experience top-notch residential and commercial remodeling services with Strong Bulls Roofing & Contractors. Trust in quality craftsmanship at competitive prices.
                         </p>
 
                         <div className="flex flex-col gap-4">
